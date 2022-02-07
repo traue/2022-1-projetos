@@ -1,1 +1,7 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
+title: [Projetos - 2021.2]
+description: [Projetos orientados pelo Prof. Thiago G. Traue e outros professores]
+show_downloads: false
+logo: /assets/logo.png
+github:
+  is_project_page: false
