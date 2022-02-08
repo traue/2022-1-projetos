@@ -1,10 +1,9 @@
-# Projeto ...
+# Projeto Prático de Programação
 
-**Orientadores**: 
- - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Terças
+**Orientador**: Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Terças
 
 
-Turma: 38 - Terças de manhã
+Turma: 20 - Terças à noite
 
 
 ***
@@ -15,7 +14,7 @@ Turma: 38 - Terças de manhã
 Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponíveis no link abaixo. É preciso utilizar o e-mail institucional para acessar essa pasta. :D
 
 <p style="font-size:2.3em;text-align:center">
-    <a href="" target="_blank">Pasta de ATAs</a>
+    <a href="https://drive.google.com/drive/folders/1D34VWx0WraUU06zzIRr_r0n24d_HpOY2?usp=sharing" target="_blank">Pasta de ATAs</a>
 </p>
 
 **SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
