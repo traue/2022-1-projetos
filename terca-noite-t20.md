@@ -1,8 +1,7 @@
-# Projeto de Desenvolvimento de Apps Multiplataforma
+# Projeto ...
 
 **Orientadores**: 
  - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Terças
- - Prof. Edson Melo (souzaem@uni9.pro.br) - Quintas
 
 
 Turma: 38 - Terças de manhã
@@ -16,7 +15,7 @@ Turma: 38 - Terças de manhã
 Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponíveis no link abaixo. É preciso utilizar o e-mail institucional para acessar essa pasta. :D
 
 <p style="font-size:2.3em;text-align:center">
-    <a href="https://drive.google.com/drive/folders/12wOfaRvrnpfKdKbvDlfuQgTIpIrdQqxc?usp=sharing" target="_blank">Pasta de ATAs</a>
+    <a href="" target="_blank">Pasta de ATAs</a>
 </p>
 
 **SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
