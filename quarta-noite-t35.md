@@ -5,7 +5,7 @@
  - Prof. João Vagner (joaovagner@uni9.pro.br) - Quintas
 
 
-Turma: 35 - Terças à noite
+**Turma**: 35 - Quartas e quiintas - noite
 
 
 ***
