@@ -1,9 +1,11 @@
 # Projeto de Desenvolvimento de Sistemas
 
-**Orientador**: Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br)
+**Orientadores**: 
+ - Prof. Ovidio L. Cruz (ovidio@uni9.pro.br) - Quartas
+ - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Quintas
 
 
-Turma: 6 - Quintas de manhã
+**Turma:** 6
 
 
 ***
@@ -14,7 +16,7 @@ Turma: 6 - Quintas de manhã
 Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponíveis no link abaixo. É preciso utilizar o e-mail institucional para acessar essa pasta. :D
 
 <p style="font-size:2.3em;text-align:center">
-    <a href="https://drive.google.com/drive/folders/1D34VWx0WraUU06zzIRr_r0n24d_HpOY2?usp=sharing" target="_blank">Pasta de ATAs</a>
+    <a href="https://drive.google.com/drive/folders/1lj91vEfXinlOYDdNHdJx9zeUPct5SDJi?usp=sharing" target="_blank">Pasta de ATAs</a>
 </p>
 
 **SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
