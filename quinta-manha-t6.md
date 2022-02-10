@@ -1,9 +1,9 @@
 # Projeto de Desenvolvimento de Sistemas
 
 **Orientadores**: 
- - Prof. Ovidio L. Cruz (ovidio@uni9.pro.br) - Quartas
  - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Quintas
-
+ - Prof. Ovidio L. Cruz (ovidio@uni9.pro.br) - Sextas
+ 
 
 **Turma:** 6
 
