@@ -34,7 +34,7 @@ Essas são as entregas do projeto. Todas os entregáveis estão devidamente docu
 | Deadline |      Descrição      | Prazo | Valor |   Link                  |
 |:--------:|:-------------------:|:-----:|:-----:|:------------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 04.03 |   1   |[LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit#heading=h.mfzr6tnk7a99) |
-|    2     | ...                 |   -   |   -   |[LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit#heading=h.7utd4a6g1f0z) |
+|    2     | Termo de Abertura   | 10.03 |   2   |[LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit#heading=h.7utd4a6g1f0z) |
 |    3     | ...                 |   -   |   -   |[LINK]() |
 |    4     | ...                 |   -   |   -   |[LINK]() |
 |    5     | ...                 |   -   |   -   |[LINK]() |
