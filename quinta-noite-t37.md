@@ -28,18 +28,18 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 ## Entregas
 
 
-Essas são as entregas do projeto:
+Essas são as entregas do projeto. Todas os entregáveis estão devidamente documentados [NESTE LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/)
 
 
-| Deadline |      Descrição      | Informado dia |   Prazo    | Pontuação |
-|:--------:|:-------------------:|:-------------:|:----------:|:---------:|
-|    1     | Formação de equipes |        -      |      -     |     -     |
-|    2     | ...                 |        -      |      -     |     -     |
-|    3     | ...                 |        -      |      -     |     -     |
-|    4     | ...                 |        -      |      -     |     -     |
-|    5     | ...                 |        -      |      -     |     -     |
-|    6     | Doc. Final          |        -      |      -     |     -     |
-|    7     | Apresentação        |        -      |      -     |     -     |
+| Deadline |      Descrição      | Prazo | Valor |   Link                  |
+|:--------:|:-------------------:|:-----:|:-----:|:------------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 04.03 |   1   |[LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit#heading=h.mfzr6tnk7a99) |
+|    2     | ...                 |   -   |   -   |[LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit#heading=h.7utd4a6g1f0z) |
+|    3     | ...                 |   -   |   -   |[LINK]() |
+|    4     | ...                 |   -   |   -   |[LINK]() |
+|    5     | ...                 |   -   |   -   |[LINK]() |
+|    6     | Doc. Final          |   -   |   -   |[LINK]() |
+|    7     | Apresentação        |   -   |   -   |[LINK]() |
 
 
 ## Recursos
