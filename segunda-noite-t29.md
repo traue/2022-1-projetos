@@ -37,7 +37,7 @@ Cada entrega é definida em seu próprio document pelos professores orientadores
 | Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
 |:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 01.03 |   1   |[LINK](https://docs.google.com/document/d/1gyZ7d3joyR0n6mBZQDvPClYBy2d0QxFoRr4BHlB0wzc/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 08.03 |   2   |[LINK]() |
+|    2     | Termo de Abertura   | 08.03 |   2   |[LINK](https://docs.google.com/document/d/1eV8e5wvM8zO4EuebjQ_7UK5pdywUjw6r00QSIph2X8g/edit?usp=sharing) |
 |    3     | ...                 |   -   |   -   |[LINK]() |
 |    4     | ...                 |   -   |   -   |[LINK]() |
 |    5     | ...                 |   -   |   -   |[LINK]() |
