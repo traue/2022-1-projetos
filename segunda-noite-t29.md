@@ -31,18 +31,18 @@ As entregas estão definidas no quadro abaixo e devem ser realizadas conforme su
 ## Entregas
 
 
-Essas são as entregas do projeto:
+Cada entrega é definida em seu próprio document pelos professores orientadores e podem ser analisadas na tabela abaixo.
 
 
-| Deadline |      Descrição      | Informado dia |   Prazo    | Pontuação |
-|:--------:|:-------------------:|:-------------:|:----------:|:---------:|
-|    1     | Formação de equipes |        -      |      -     |     -     |
-|    2     | ...                 |        -      |      -     |     -     |
-|    3     | ...                 |        -      |      -     |     -     |
-|    4     | ...                 |        -      |      -     |     -     |
-|    5     | ...                 |        -      |      -     |     -     |
-|    6     | Doc. Final          |        -      |      -     |     -     |
-|    7     | Apresentação        |        -      |      -     |     -     |
+| Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
+|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 01.03 |   1   |[LINK](https://docs.google.com/document/d/1gyZ7d3joyR0n6mBZQDvPClYBy2d0QxFoRr4BHlB0wzc/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 08.03 |   2   |[LINK]() |
+|    3     | ...                 |   -   |   -   |[LINK]() |
+|    4     | ...                 |   -   |   -   |[LINK]() |
+|    5     | ...                 |   -   |   -   |[LINK]() |
+|    6     | Doc. Final          |   -   |   -   |[LINK]() |
+|    7     | Apresentação        |   -   |   -   |[LINK]() |
 
 
 ## Recursos
