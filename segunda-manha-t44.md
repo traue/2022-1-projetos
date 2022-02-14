@@ -5,6 +5,7 @@
 
 Turma: 44 - Segundas de manhã
 
+**Classroom do projeto:** [NESTE LINK](https://classroom.google.com/c/NDY1OTc2NzM1Njg5?cjc=kq6hckl)
 
 ***
 
@@ -26,19 +27,20 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 ## Entregas
 
+Este projeto possui um documento único que descreve as entregas, disponível [NESTE LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#)
 
 Essas são as entregas do projeto:
 
 
-| Deadline |      Descrição      | Informado dia |   Prazo    | Pontuação |
-|:--------:|:-------------------:|:-------------:|:----------:|:---------:|
-|    1     | Formação de equipes |        -      |      -     |     -     |
-|    2     | ...                 |        -      |      -     |     -     |
-|    3     | ...                 |        -      |      -     |     -     |
-|    4     | ...                 |        -      |      -     |     -     |
-|    5     | ...                 |        -      |      -     |     -     |
-|    6     | Doc. Final          |        -      |      -     |     -     |
-|    7     | Apresentação        |        -      |      -     |     -     |
+| Deadline |      Descrição      | Prazo | Valor |   Link                  |
+|:--------:|:-------------------:|:-----:|:-----:|:------------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 01.03 |   1   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#heading=h.94ebbilfiif9) |
+|    2     | Termo de Abertura   | 08.03 |   2   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#heading=h.bium63dcbmqf    ) |
+|    3     | ...                 |   -   |   -   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#heading=h.snjdu81qp93s) |
+|    4     | ...                 |   -   |   -   |[LINK]() |
+|    5     | ...                 |   -   |   -   |[LINK]() |
+|    6     | Doc. Final          |   -   |   -   |[LINK]() |
+|    7     | Apresentação        |   -   |   -   |[LINK]() |
 
 
 ## Recursos
