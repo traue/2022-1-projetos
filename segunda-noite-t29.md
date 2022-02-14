@@ -2,10 +2,10 @@
 
 **Orientadores**: 
  - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br)
- - Profª. Rosana Cordovil (e-mail a confirmar)
+ - Profª. Rosana Cordovil (rosanacordovil@uni9.pro.br)
 
 
-Turma: 29 - Segundas à noite
+Turma: 29 - Segundas (Prof. Traue) e quartas (Profª. Rosana) à noite
 
 
 ***
