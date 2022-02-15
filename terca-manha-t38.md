@@ -7,6 +7,8 @@
 
 Turma: 38 - Terças de manhã
 
+Classroom do projeto: [NESTE LINK](https://classroom.google.com/c/NDY1OTg1NTczNjg5?cjc=x7vo7dc)
+
 
 ***
 
