@@ -34,7 +34,7 @@ Cada deadline está definia em um documento próprio, dispon;ivel no classroom o
 | Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
 |:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 15.03 |   1   |[LINK](https://docs.google.com/document/d/1cBPRUBLCjbOe_UwIOp_RCck0uJE6eptOAeu7btFYk5A/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 22.03 |   2   |[LINK]() |
+|    2     | Termo de Abertura   | 22.03 |   2   |[LINK](https://docs.google.com/document/d/1r1z2-CMk-nj0WUHAZnu82MoMUkxKNnPNSNx-bdt6HXE/edit?usp=sharing) |
 |    3     | ...                 |   -   |   -   |[LINK]() |
 |    4     | ...                 |   -   |   -   |[LINK]() |
 |    5     | ...                 |   -   |   -   |[LINK]() |
