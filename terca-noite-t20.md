@@ -5,6 +5,8 @@
 
 Turma: 20 - Terças à noite
 
+Link do Classroom: [NESTE LINK](https://classroom.google.com/c/NDY1OTg2MzU3MTIy?cjc=j5k73bj)
+
 
 ***
 
@@ -30,15 +32,15 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 Essas são as entregas do projeto:
 
 
-| Deadline |      Descrição      | Informado dia |   Prazo    | Pontuação |
-|:--------:|:-------------------:|:-------------:|:----------:|:---------:|
-|    1     | Formação de equipes |        -      |      -     |     -     |
-|    2     | ...                 |        -      |      -     |     -     |
-|    3     | ...                 |        -      |      -     |     -     |
-|    4     | ...                 |        -      |      -     |     -     |
-|    5     | ...                 |        -      |      -     |     -     |
-|    6     | Doc. Final          |        -      |      -     |     -     |
-|    7     | Apresentação        |        -      |      -     |     -     |
+| Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
+|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 08.03 |   1   |[LINK](https://docs.google.com/document/d/1CJ15w6Rw5wRghnuJwiCszN4ZLsgiye7ut46atHfk1bc/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 15.03 |   2   |[LINK](https://docs.google.com/document/d/1z6h47Zp2pxWXMrk_Z1wnfBu8ZrRyWQB71FRpFHp5tY0/edit?usp=sharing) |
+|    3     | ...                 |   -   |   -   |[LINK]() |
+|    4     | ...                 |   -   |   -   |[LINK]() |
+|    5     | ...                 |   -   |   -   |[LINK]() |
+|    6     | Doc. Final          |   -   |   -   |[LINK]() |
+|    7     | Apresentação        |   -   |   -   |[LINK]() |
 
 
 ## Recursos
