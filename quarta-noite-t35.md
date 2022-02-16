@@ -8,6 +8,8 @@
 **Turma**: 35 - Quartas e quiintas - noite
 
 
+Classroom do projeto: [NESTE LINK](https://classroom.google.com/c/NDY1OTg2NDEyNTc4?cjc=ildbem7)
+
 ***
 
 
@@ -29,18 +31,21 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 ## Entregas
 
 
-Essas são as entregas do projeto:
+A tabela abaixo representa as entregas do projeto. As especificações de cada entrega podem ser vistas na última coluna, em link próprio.
 
 
-| Deadline |      Descrição      | Informado dia |   Prazo    | Pontuação |
-|:--------:|:-------------------:|:-------------:|:----------:|:---------:|
-|    1     | Formação de equipes |        -      |      -     |     -     |
-|    2     | ...                 |        -      |      -     |     -     |
-|    3     | ...                 |        -      |      -     |     -     |
-|    4     | ...                 |        -      |      -     |     -     |
-|    5     | ...                 |        -      |      -     |     -     |
-|    6     | Doc. Final          |        -      |      -     |     -     |
-|    7     | Apresentação        |        -      |      -     |     -     |
+| Deadline |      Descrição      | Prazo | Valor | Link                                                                                                    |
+|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 09.03 |   1   |[LINK](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 16.03 |   2   |[LINK](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
+|    3     | ...                 |   -   |   -   |[LINK]() |
+|    4     | ...                 |   -   |   -   |[LINK]() |
+|    5     | ...                 |   -   |   -   |[LINK]() |
+|    6     | Doc. Final          |   -   |   -   |[LINK]() |
+|    7     | Apresentação        |   -   |   -   |[LINK]() |
+
+
+
 
 
 
