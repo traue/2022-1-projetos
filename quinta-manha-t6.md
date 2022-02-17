@@ -21,9 +21,11 @@ Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponí
 
 **SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
 
-Este é um projeto integrador e devem ser entregues ao professor orientador os artefatos conforme definido nas reuniões de orientação, às segundas-feiras (com o Prof. Traue). Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima.
+Este é um projeto integrador e devem ser entregues aos professores orientadores os artefatos conforme definido nas reuniões de orientação, às quintas-feiras (com o Prof. Traue) e/ou sextas-feiras (com o Prof. Ovidio).
 
-As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em que foi informada.
+Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima.
+
+As entregas estão documentadas na tabela abaixo.
 
 ## Entregas
 
