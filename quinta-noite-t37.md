@@ -34,9 +34,10 @@ Essas são as entregas do projeto. Todas os entregáveis estão devidamente docu
 |    2     | Termo de Abertura   | 18.03 |   2   |[LINK](https://docs.google.com/document/d/1bVKxDoeMW9gzSc_HWvOoZIImoiMj1byW5lpGKymLKDw/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 31.03 |   2   |[LINK](https://docs.google.com/document/d/1_2WXuHPdK7X97nQrUh8-_Mfv-cTIEJ18cFx00K3Rars/edit?usp=sharing) |
 |    4     | Landing Page        | 14.04 |   1   |[LINK](https://docs.google.com/document/d/1j-EbWpQThV-ONuAQ0ejLWDIB0vhk_dqHlD9RF_x16N4/edit?usp=sharing) |
-|    5     | ...                 |   -   |   -   |Em breve |
-|    6     | Doc. Final          |   -   |   -   |Em breve |
-|    7     | Apresentação        |   -   |   -   |Em breve |
+|    5     | 4 ps de Marketing   |   -   |   -   |Em breve |
+|    6     | ...                 |   -   |   -   |Em breve |
+|    7     | Doc. Final          |   -   |   -   |Em breve |
+|    8     | Apresentação        |   -   |   -   |Em breve |
 
 ## Recursos
 
