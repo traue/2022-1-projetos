@@ -41,6 +41,16 @@ Essas são as entregas do projeto:
 
 - **Em breve:** Template da documentação final em formato ABNT
 
+## Disciplinas da turma
+
+As disciplins da turma, neste módulo, são:
+
+- Arquitetura organizacional
+- Marketing digital
+- Análise e viabildiade de negócios
+- Automação de processos
+- Sistemas multimidia
+
 ## Perguntas frequentes
 
 1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?** 
