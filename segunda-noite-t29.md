@@ -33,11 +33,11 @@ Cada entrega é definida em seu próprio document pelos professores orientadores
 |:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 07.03 |   1   |[LINK](https://docs.google.com/document/d/1gyZ7d3joyR0n6mBZQDvPClYBy2d0QxFoRr4BHlB0wzc/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 14.03 |   2   |[LINK](https://docs.google.com/document/d/1eV8e5wvM8zO4EuebjQ_7UK5pdywUjw6r00QSIph2X8g/edit?usp=sharing) |
-|    3     | ...                 |   -   |   -   |[LINK]() |
-|    4     | ...                 |   -   |   -   |[LINK]() |
-|    5     | ...                 |   -   |   -   |[LINK]() |
-|    6     | Doc. Final          |   -   |   -   |[LINK]() |
-|    7     | Apresentação        |   -   |   -   |[LINK]() |
+|    3     | Requisitos de Sw    |   -   |   -   |[LINK](https://docs.google.com/document/d/1EQVk3f-U7TleRjNP2QA7x20ltSYJMSrWKR9TPj5GFe0/edit?usp=sharing) |
+|    4     | ...                 |   -   |   -   |Em breve |
+|    5     | ...                 |   -   |   -   |Em breve |
+|    6     | Doc. Final          |   -   |   -   |Em breve |
+|    7     | Apresentação        |   -   |   -   |Em breve |
 
 ## Recursos
 
@@ -52,4 +52,4 @@ Cada entrega é definida em seu próprio document pelos professores orientadores
     R: Perfeitamente. Basta o gerente do grupo informar tal inclusão. O aluno que ingressar em algum grupo receberá automaticamente as mesmas pontuações deste.
 
 3. **Professor, precisarei apresentar o projeto?**
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
+    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
