@@ -2,15 +2,13 @@
 
 **Orientador**: Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br)
 
-
 Turma: 44 - Segundas de manhã
 
 **Classroom do projeto:** [NESTE LINK](https://classroom.google.com/c/NDY1OTc2NzM1Njg5?cjc=kq6hckl)
 
 ***
 
-
-# Orientações
+## Orientações
 
 Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponíveis no link abaixo. É preciso utilizar o e-mail institucional para acessar essa pasta. :D
 
@@ -27,39 +25,29 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 ## Entregas
 
-Este projeto possui um documento único que descreve as entregas, disponível [NESTE LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#)
-
 Essas são as entregas do projeto:
 
-
-| Deadline |      Descrição      | Prazo | Valor |   Link                  |
-|:--------:|:-------------------:|:-----:|:-----:|:------------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 01.03 |   1   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#heading=h.94ebbilfiif9) |
-|    2     | Termo de Abertura   | 08.03 |   2   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#heading=h.bium63dcbmqf    ) |
-|    3     | ...                 |   -   |   -   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit#heading=h.snjdu81qp93s) |
-|    4     | ...                 |   -   |   -   |[LINK]() |
-|    5     | ...                 |   -   |   -   |[LINK]() |
-|    6     | Doc. Final          |   -   |   -   |[LINK]() |
-|    7     | Apresentação        |   -   |   -   |[LINK]() |
-
+| Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
+|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 07.03 |   1   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 14.03 |   2   |[LINK](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 04.04 |   2   |[LINK](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
+|    4     | ...                 |   -   |   -   |Em breve |
+|    5     | ...                 |   -   |   -   |Em breve |
+|    6     | Doc. Final          |   -   |   -   |Em breve |
+|    7     | Apresentação        |   -   |   -   |Em breve|
 
 ## Recursos
 
- - **Em breve:** Template da documentação final em formato ABNT
-
-
+- **Em breve:** Template da documentação final em formato ABNT
 
 ## Perguntas frequentes
 
-1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**
-    
+1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?** 
     R: De forma alguma. Você pode acompanhar o projeto via ATAs de orientação e realizar as entregas de forma offline, ou seja, apenas enviar o arquivo conforme definido pelo orientador.
 
-
 2. **Professor, estou sem grupo. Posso ingressar em um grupo já existente?**
-    
     R: Perfeitamente. Basta o gerente do grupo informar tal inclusão. O aluno que ingressar em algum grupo receberá automaticamente as mesmas pontuações deste.
 
 3. **Professor, precisarei apresentar o projeto?**
-    
     R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
