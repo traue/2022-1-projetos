@@ -30,8 +30,8 @@ Essas são as entregas do projeto:
 | Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
 |:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 07.03 |   1   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 14.03 |   2   |[LINK](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
-|    3     | Definição do negócio| 28.03 |   1   |[LINK](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
+|    2     | Definição do negócio| 14.03 |   1   |[LINK](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
+|    3     | Termo de Abertura   | 04.04 |   2   |[LINK](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
 |    4     | ...                 |   -   |   -   |Em breve |
 |    5     | ...                 |   -   |   -   |Em breve |
 |    6     | Doc. Final          |   -   |   -   |Em breve |
