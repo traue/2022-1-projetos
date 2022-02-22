@@ -40,6 +40,14 @@ Essas são as entregas do projeto:
 
 - **Em breve:** Template da documentação final em formato ABNT
 
+## Disciplinas da turma neste módulo
+
+- DevOps
+- Programação visual
+- Programação Backend
+- Análise e Proj. de Sistemas OO.
+- Desenvolvimento em BD
+
 ## Perguntas frequentes
 
 1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**
