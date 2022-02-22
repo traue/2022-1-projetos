@@ -29,15 +29,15 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 Cada deadline está definia em um documento próprio, dispon;ivel no classroom ou na tabela abaixo:
 
-| Deadline |      Descrição      | Prazo        | Valor |   Link                                                                                                  |
+| Deadline |      Descrição      | Prazo        | Valor | Link                                                                                                    |
 |:--------:|:-------------------:|:------------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 15.03, 11h  |   1   |[LINK](https://docs.google.com/document/d/1cBPRUBLCjbOe_UwIOp_RCck0uJE6eptOAeu7btFYk5A/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 22.03, 11h  |   2   |[LINK](https://docs.google.com/document/d/1r1z2-CMk-nj0WUHAZnu82MoMUkxKNnPNSNx-bdt6HXE/edit?usp=sharing) |
-|    3     | Requisitos de SW    | 12.04, 11h  |   2   |[LINK](https://docs.google.com/document/d/1b8vXtVUuetIkd5e4HgbycFl5zs5i0RYswjR29i4Oqkw/edit?usp=sharing) |
-|    4     | ...                 |   -         |   -   |Em breve|
-|    5     | ...                 |   -         |   -   |Em breve |
-|    6     | Doc. Final          |   -         |   -   |Em breve |
-|    7     | Apresentação        |   -         |   -   |Em breve |
+|    1     | Formação de equipes | 15.03, 11h   |   1   |[LINK](https://docs.google.com/document/d/1cBPRUBLCjbOe_UwIOp_RCck0uJE6eptOAeu7btFYk5A/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 22.03, 11h   |   2   |[LINK](https://docs.google.com/document/d/1r1z2-CMk-nj0WUHAZnu82MoMUkxKNnPNSNx-bdt6HXE/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 12.04, 11h   |   2   |[LINK](https://docs.google.com/document/d/1b8vXtVUuetIkd5e4HgbycFl5zs5i0RYswjR29i4Oqkw/edit?usp=sharing) |
+|    4     | ...                 |   -          |   -   |Em breve |
+|    5     | ...                 |   -          |   -   |Em breve |
+|    6     | Doc. Final          |   -          |   -   |Em breve |
+|    7     | Apresentação        |   -          |   -   |Em breve |
 
 ## Recursos
 
