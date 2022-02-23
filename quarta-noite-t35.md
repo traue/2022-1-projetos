@@ -1,19 +1,17 @@
 # Projeto em Sistemas Inteligentes
 
-**Orientadores**: 
- - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Quartas
- - Prof. João Vagner (joaovagner@uni9.pro.br) - Quintas
+**Orientadores**:
 
+- Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Quartas
+- Prof. João Vagner (joaovagner@uni9.pro.br) - Quintas
 
 **Turma**: 35 - Quartas e quiintas - noite
-
 
 Classroom do projeto: [NESTE LINK](https://classroom.google.com/c/NDY1OTg2NDEyNTc4?cjc=ildbem7)
 
 ***
 
-
-# Orientações
+## Orientações
 
 Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponíveis no link abaixo. É preciso utilizar o e-mail institucional para acessar essa pasta. :D
 
@@ -27,45 +25,34 @@ Este é um projeto integrador e devem ser entregues ao professor orientador os a
 
 As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em que foi informada.
 
-
 ## Entregas
-
 
 A tabela abaixo representa as entregas do projeto. As especificações de cada entrega podem ser vistas na última coluna, em link próprio.
 
-
-| Deadline |      Descrição      | Prazo | Valor | Link                                                                                                    |
-|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 09.03 |   1   |[LINK](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 16.03 |   2   |[LINK](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
-|    3     | ...                 |   -   |   -   |[LINK]() |
-|    4     | ...                 |   -   |   -   |[LINK]() |
-|    5     | ...                 |   -   |   -   |[LINK]() |
-|    6     | Doc. Final          |   -   |   -   |[LINK]() |
-|    7     | Apresentação        |   -   |   -   |[LINK]() |
-
-
-
-
-
+| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                            |
+|:--------:|:-------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 09.03, 18h |   1   |[LINK](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 16.03, 18h |   2   |[LINK](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 06.04, 18h |   1   |[LINK](https://docs.google.com/document/d/1HD3ncQO4EV2YAPifq92LwlF9DYL7oZdCN3ra3-lnfJ0/edit?usp=sharing) |
+|    4     | ...                 |   -        |   -   |Em breve |
+|    ?     | ...                 |   -        |   -   |Em breve |
+|    ?     | Doc. Final          |   -        |   -   |Em breve |
+|    ?     | Apresentação        |   -        |   -   |Em breve |
 
 ## Recursos
 
- - **Em breve:** Template da documentação final em formato ABNT
-
-
+- **Em breve:** Template da documentação final em formato ABNT
 
 ## Perguntas frequentes
 
 1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**
-    
+
     R: De forma alguma. Você pode acompanhar o projeto via ATAs de orientação e realizar as entregas de forma offline, ou seja, apenas enviar o arquivo conforme definido pelo orientador.
 
-
 2. **Professor, estou sem grupo. Posso ingressar em um grupo já existente?**
-    
+
     R: Perfeitamente. Basta o gerente do grupo informar tal inclusão. O aluno que ingressar em algum grupo receberá automaticamente as mesmas pontuações deste.
 
 3. **Professor, precisarei apresentar o projeto?**
-    
+
     R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
