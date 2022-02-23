@@ -33,7 +33,7 @@ A tabela abaixo representa as entregas do projeto. As especificações de cada e
 |:--------:|:-------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 09.03, 18h |   1   |[LINK](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 16.03, 18h |   2   |[LINK](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
-|    3     | Requisitos de SW    | 06.04, 18h |   1   |[LINK](https://docs.google.com/document/d/1HD3ncQO4EV2YAPifq92LwlF9DYL7oZdCN3ra3-lnfJ0/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 06.04, 18h |   2   |[LINK](https://docs.google.com/document/d/1HD3ncQO4EV2YAPifq92LwlF9DYL7oZdCN3ra3-lnfJ0/edit?usp=sharing) |
 |    4     | ...                 |   -        |   -   |Em breve |
 |    ?     | ...                 |   -        |   -   |Em breve |
 |    ?     | Doc. Final          |   -        |   -   |Em breve |
