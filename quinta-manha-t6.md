@@ -36,7 +36,7 @@ Essas são as entregas do projeto:
 |    1     | Formação de equipes | 10.03, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1m2zQXZ-TsE1Dk8QPx9oxxRu_aLC5uYXric3-8IjNO8I/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 17.03, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1VDaOBt8j9YiC1C24luXhsvKXtEBhZNUb1YRlTMLnzMU/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 07.04, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1DIz_7edoH-RFwNGG_dz7RSqvKN227yTXQYHkrlQ-obU/edit?usp=sharing) |
-|    4     | ...                 |   -        |   -   |LINK EM BREVE |
+|    4     | Modelagem UML       |   -        |   -   |LINK EM BREVE |
 |    ?     | ...                 |   -        |   -   |LINK EM BREVE |
 |    ?     | Doc. Final          |   -        |   -   |LINK EM BREVE |
 |    ?     | Apresentação        |   -        |   -   |LINK EM BREVE |
@@ -44,6 +44,16 @@ Essas são as entregas do projeto:
 ## Recursos
 
 - **Em breve:** Template da documentação final em formato ABNT
+
+## Disciplinas do módulo
+
+O projeto é baseado nas disciplinas deste módulo, que são:
+
+- Modelagem e desenvolvimento em BD
+- Engenharia de Software
+- Análise e Proj. de Sistemas OO
+- Lógica e Prog. Visual
+- Sistemas Computacionais (EaD)
 
 ## Perguntas frequentes
 
