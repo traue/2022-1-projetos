@@ -31,8 +31,8 @@ As entregas estão documentadas na tabela abaixo.
 
 Essas são as entregas do projeto:
 
-| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                         |
-|:--------:|:-------------------:|:----------:|:-----:|:--------------------------------------------------------------------------------------------------------------------:|
+| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
+|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 10.03, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1m2zQXZ-TsE1Dk8QPx9oxxRu_aLC5uYXric3-8IjNO8I/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 17.03, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1VDaOBt8j9YiC1C24luXhsvKXtEBhZNUb1YRlTMLnzMU/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 07.04, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1DIz_7edoH-RFwNGG_dz7RSqvKN227yTXQYHkrlQ-obU/edit?usp=sharing) |
