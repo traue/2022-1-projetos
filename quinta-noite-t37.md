@@ -28,16 +28,16 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 Essas são as entregas do projeto. Todas os entregáveis estão devidamente documentados [NESTE LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/)
 
-| Deadline |      Descrição      | Prazo | Valor | Link                                                                                                    |
-|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 10.03 |   1   |[LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 18.03 |   2   |[LINK](https://docs.google.com/document/d/1bVKxDoeMW9gzSc_HWvOoZIImoiMj1byW5lpGKymLKDw/edit?usp=sharing) |
-|    3     | Requisitos de SW    | 31.03 |   2   |[LINK](https://docs.google.com/document/d/1_2WXuHPdK7X97nQrUh8-_Mfv-cTIEJ18cFx00K3Rars/edit?usp=sharing) |
-|    4     | Landing Page        | 14.04 |   1   |[LINK](https://docs.google.com/document/d/1j-EbWpQThV-ONuAQ0ejLWDIB0vhk_dqHlD9RF_x16N4/edit?usp=sharing) |
-|    5     | 4 ps de Marketing   |   -   |   -   |Em breve |
-|    6     | ...                 |   -   |   -   |Em breve |
-|    7     | Doc. Final          |   -   |   -   |Em breve |
-|    8     | Apresentação        |   -   |   -   |Em breve |
+| Deadline |      Descrição      | Prazo      | Valor | Descrição                                                                                                       |
+|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 10.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 18.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1bVKxDoeMW9gzSc_HWvOoZIImoiMj1byW5lpGKymLKDw/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 31.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1_2WXuHPdK7X97nQrUh8-_Mfv-cTIEJ18cFx00K3Rars/edit?usp=sharing) |
+|    4     | Landing Page        | 14.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1j-EbWpQThV-ONuAQ0ejLWDIB0vhk_dqHlD9RF_x16N4/edit?usp=sharing) |
+|    5     | 4 ps de Marketing   | 28.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1_qNJNCmF-C4Pq6Vo856sDl5K-sKi-hgZEuVghb2gBxE/edit?usp=sharing) |
+|    6     | Prototipação        |   -        |   -   |Em breve |
+|    7     | Doc. Final          |   -        |   -   |Em breve |
+|    8     | Apresentação        |   -        |   -   |Em breve |
 
 ## Recursos
 
