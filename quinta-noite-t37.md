@@ -20,7 +20,7 @@ Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponí
 
 **SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
 
-Este é um projeto integrador e devem ser entregues ao professor orientador os artefatos conforme definido nas reuniões de orientação, às segundas-feiras (com o Prof. Traue). Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima. 
+Este é um projeto integrador e devem ser entregues ao professor orientador os artefatos conforme definido nas reuniões de orientação, às segundas-feiras (com o Prof. Traue). Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima.
 
 As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em que foi informada.
 
@@ -35,9 +35,9 @@ Essas são as entregas do projeto. Todas os entregáveis estão devidamente docu
 |    3     | Requisitos de SW    | 31.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1_2WXuHPdK7X97nQrUh8-_Mfv-cTIEJ18cFx00K3Rars/edit?usp=sharing) |
 |    4     | Landing Page        | 14.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1j-EbWpQThV-ONuAQ0ejLWDIB0vhk_dqHlD9RF_x16N4/edit?usp=sharing) |
 |    5     | 4 ps de Marketing   | 28.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1_qNJNCmF-C4Pq6Vo856sDl5K-sKi-hgZEuVghb2gBxE/edit?usp=sharing) |
-|    6     | Prototipação        |   -        |   -   |Em breve |
-|    7     | Doc. Final          |   -        |   -   |Em breve |
-|    8     | Apresentação        |   -        |   -   |Em breve |
+|    6     | Prototipação        | 12.05, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1sVsmS6T_GlccAXssel_39GZT8JUjk2NC389xvPUQbfc/edit?usp=sharing) |
+|    7     | Doc. Final          |   -        |   1   |Em breve |
+|    8     | Apresentação        |   -        |   2+  |Em breve |
 
 ## Recursos
 
