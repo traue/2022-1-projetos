@@ -26,7 +26,7 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 ## Entregas
 
-Essas são as entregas do projeto. Todas os entregáveis estão devidamente documentados [NESTE LINK](https://docs.google.com/document/d/1dc79SsTdSJA96zLv2AGjSxKHNA1q-apIuf99VGozquQ/)
+Essas são as entregas do projeto. Todas os entregáveis estão devidamente documentados na tabela abaixo (coluna detalhamento)
 
 | Deadline |      Descrição      | Prazo      | Valor | Descrição                                                                                                       |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
@@ -45,11 +45,11 @@ Essas são as entregas do projeto. Todas os entregáveis estão devidamente docu
 
 ## Perguntas frequentes
 
-1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**    
+1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**
     R: De forma alguma. Você pode acompanhar o projeto via ATAs de orientação e realizar as entregas de forma offline, ou seja, apenas enviar o arquivo conforme definido pelo orientador.
 
-2. **Professor, estou sem grupo. Posso ingressar em um grupo já existente?**    
+2. **Professor, estou sem grupo. Posso ingressar em um grupo já existente?**
     R: Perfeitamente. Basta o gerente do grupo informar tal inclusão. O aluno que ingressar em algum grupo receberá automaticamente as mesmas pontuações deste.
 
 3. **Professor, precisarei apresentar o projeto?**
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
+    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
