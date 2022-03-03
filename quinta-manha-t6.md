@@ -36,7 +36,7 @@ Essas são as entregas do projeto:
 |    1     | Formação de equipes | 10.03, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1m2zQXZ-TsE1Dk8QPx9oxxRu_aLC5uYXric3-8IjNO8I/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 17.03, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1VDaOBt8j9YiC1C24luXhsvKXtEBhZNUb1YRlTMLnzMU/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 07.04, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1DIz_7edoH-RFwNGG_dz7RSqvKN227yTXQYHkrlQ-obU/edit?usp=sharing) |
-|    4     | Modelagem UML       |   -        |   -   |LINK EM BREVE |
+|    4     | Modelagem UML       |   -        |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1X0PA8NhJoLESng8utFHbtgC-TpLBiCNr-PSXq92Bl4E/edit?usp=sharing) |
 |    ?     | ...                 |   -        |   -   |LINK EM BREVE |
 |    ?     | Doc. Final          |   -        |   -   |LINK EM BREVE |
 |    ?     | Apresentação        |   -        |   -   |LINK EM BREVE |
