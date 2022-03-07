@@ -29,12 +29,12 @@ As entregas estão definidas no quadro abaixo e devem ser realizadas conforme su
 
 Cada entrega é definida em seu próprio document pelos professores orientadores e podem ser analisadas na tabela abaixo.
 
-| Deadline |        Descrição      | Prazo      | Valor |   Link                                                                                                  |
-|:--------:|:---------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes   | 07.03, 18h |   1   |[LINK](https://docs.google.com/document/d/1gyZ7d3joyR0n6mBZQDvPClYBy2d0QxFoRr4BHlB0wzc/edit?usp=sharing) |
-|    2     | Termo de Abertura     | 14.03, 18h |   2   |[LINK](https://docs.google.com/document/d/1eV8e5wvM8zO4EuebjQ_7UK5pdywUjw6r00QSIph2X8g/edit?usp=sharing) |
-|    3     | Requisitos de Sw      | 04.04, 18h |   2   |[LINK](https://docs.google.com/document/d/1EQVk3f-U7TleRjNP2QA7x20ltSYJMSrWKR9TPj5GFe0/edit?usp=sharing) |
-|    4     | Definição de Personas |   -        |   -   |Em breve |
+| Deadline |        Descrição      | Prazo      | Valor |  Descrição                                                                                                      |
+|:--------:|:---------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes   | 14.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1gyZ7d3joyR0n6mBZQDvPClYBy2d0QxFoRr4BHlB0wzc/edit?usp=sharing) |
+|    2     | Termo de Abertura     | 14.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1eV8e5wvM8zO4EuebjQ_7UK5pdywUjw6r00QSIph2X8g/edit?usp=sharing) |
+|    3     | Requisitos de Sw      | 04.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1EQVk3f-U7TleRjNP2QA7x20ltSYJMSrWKR9TPj5GFe0/edit?usp=sharing) |
+|    4     | Definição de Personas | 18.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1xFkXmF_v3bLJKdmIr4FsJEM-hvzMVCjXJrdIehJZMKo/edit?usp=sharing) |
 |    5     | ...                   |   -        |   -   |Em breve |
 |    6     | Doc. Final            |   -        |   -   |Em breve |
 |    7     | Apresentação          |   -        |   -   |Em breve |
