@@ -27,15 +27,15 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 Essas são as entregas do projeto:
 
-| Deadline |      Descrição      | Prazo | Valor |   Link                                                                                                  |
-|:--------:|:-------------------:|:-----:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 07.03 |   1   |[LINK](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
-|    2     | Definição do negócio| 14.03 |   1   |[LINK](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
-|    3     | Termo de Abertura   | 04.04 |   2   |[LINK](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
-|    4     | ...                 |   -   |   -   |Em breve |
-|    5     | ...                 |   -   |   -   |Em breve |
-|    6     | Doc. Final          |   -   |   -   |Em breve |
-|    7     | Apresentação        |   -   |   -   |Em breve|
+| Deadline |      Descrição      | Prazo      | Valor | Descrição                                                                                                       |
+|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
+|    2     | Definição do negócio| 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
+|    3     | Termo de Abertura   | 04.04, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
+|    4     | ...                 |   -        |   -   |Em breve |
+|    5     | ...                 |   -        |   -   |Em breve |
+|    6     | Doc. Final          |   -        |   -   |Em breve |
+|    7     | Apresentação        |   -        |   -   |Em breve|
 
 ## Recursos
 
