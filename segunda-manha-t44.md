@@ -32,7 +32,7 @@ Essas são as entregas do projeto:
 |    1     | Formação de equipes | 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
 |    2     | Definição do negócio| 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
 |    3     | Termo de Abertura   | 04.04, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
-|    4     | Mix de Marketing    | 04.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16UdIokOQozMnVNTr5zWGcXu8bcvl_OBAauOqDcPriqk/edit?usp=sharing) |
+|    4     | Mix de Marketing    | 11.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16UdIokOQozMnVNTr5zWGcXu8bcvl_OBAauOqDcPriqk/edit?usp=sharing) |
 |    5     | ...                 |   -        |   -   |Em breve |
 |    6     | Doc. Final          |   -        |   -   |Em breve |
 |    7     | Apresentação        |   -        |   -   |Em breve|
