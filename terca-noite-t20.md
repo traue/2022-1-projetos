@@ -26,11 +26,11 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 
 Essas são as entregas do projeto:
 
-| Deadline |      Descrição      | Prazo      | Valor | Detalhes                                                                                                |
-|:--------:|:-------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 08.03, 18h |   1   |[LINK](https://docs.google.com/document/d/1CJ15w6Rw5wRghnuJwiCszN4ZLsgiye7ut46atHfk1bc/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 15.03, 18h |   2   |[LINK](https://docs.google.com/document/d/1z6h47Zp2pxWXMrk_Z1wnfBu8ZrRyWQB71FRpFHp5tY0/edit?usp=sharing) |
-|    3     | Requisitos de SW    | 05.04, 18h |   2   |[LINK](https://docs.google.com/document/d/13jBa8ka5J3-vZeYSErFIUR0QLw-b06dPBIYQcpvyvTk/edit?usp=sharing) |
+| Deadline |      Descrição      | Prazo      | Valor | Detalhes                                                                                                        |
+|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 15.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1CJ15w6Rw5wRghnuJwiCszN4ZLsgiye7ut46atHfk1bc/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 15.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1z6h47Zp2pxWXMrk_Z1wnfBu8ZrRyWQB71FRpFHp5tY0/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 05.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/13jBa8ka5J3-vZeYSErFIUR0QLw-b06dPBIYQcpvyvTk/edit?usp=sharing) |
 |    4     | ...                 |   -        |   -   |Em breve |
 |    5     | ...                 |   -        |   -   |Em breve |
 |    ?     | Doc. Final          |   -        |   -   |Em breve |
