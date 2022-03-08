@@ -35,7 +35,7 @@ Cada deadline está definia em um documento próprio, dispon;ivel no classroom o
 |    2     | Termo de Abertura   | 22.03, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1r1z2-CMk-nj0WUHAZnu82MoMUkxKNnPNSNx-bdt6HXE/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 12.04, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1b8vXtVUuetIkd5e4HgbycFl5zs5i0RYswjR29i4Oqkw/edit?usp=sharing) |
 |    4     | Mix de Marketing    | 26.04, 11h   |   1   |[Detalhamento](https://docs.google.com/document/d/1eVs3j_WdhOuBl6fvjaGLApDtPQ9WqK0et4TGQvjijOg/edit?usp=sharing) |
-|    5     | Prototipação        |   -          |   -   |Em breve |
+|    5     | Prototipação        | 17.05, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1xRMENm94JHnCKlanuzHltOu3doMjuwKSLq_2D7TzPZQ/edit?usp=sharing) |
 |    6     | Doc. Final          |   -          |   -   |Em breve |
 |    7     | Apresentação        |   -          |   -   |Em breve |
 
