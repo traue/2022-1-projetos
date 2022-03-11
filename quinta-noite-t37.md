@@ -36,8 +36,8 @@ Essas são as entregas do projeto. Todas os entregáveis estão devidamente docu
 |    4     | Landing Page        | 14.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1j-EbWpQThV-ONuAQ0ejLWDIB0vhk_dqHlD9RF_x16N4/edit?usp=sharing) |
 |    5     | 4 ps de Marketing   | 28.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1_qNJNCmF-C4Pq6Vo856sDl5K-sKi-hgZEuVghb2gBxE/edit?usp=sharing) |
 |    6     | Prototipação        | 12.05, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1sVsmS6T_GlccAXssel_39GZT8JUjk2NC389xvPUQbfc/edit?usp=sharing) |
-|    7     | Doc. Final          |   -        |   1   |[Detalhamento](https://docs.google.com/document/d/1WZjPs9fAdJKtCO_OQeVF5mLFjCn43CTGtsDxyag0weA/edit?usp=sharing) |
-|    8     | Apresentação        |   -        |   2+  |[Detalhamento](https://docs.google.com/document/d/1jRyiCMqPegEf9TnDg7eS6P7QoC_8HPYqpGw0FtGvEXo/edit?usp=sharing) |
+|    7     | Doc. Final          | 26.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1WZjPs9fAdJKtCO_OQeVF5mLFjCn43CTGtsDxyag0weA/edit?usp=sharing) |
+|    8     | Apresentação        | 26.05+     |   2+  |[Detalhamento](https://docs.google.com/document/d/1jRyiCMqPegEf9TnDg7eS6P7QoC_8HPYqpGw0FtGvEXo/edit?usp=sharing) |
 
 ## Recursos
 
