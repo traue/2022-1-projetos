@@ -33,11 +33,13 @@ Cada entrega é definida em seu próprio document pelos professores orientadores
 |:--------:|:---------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes   | 14.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1gyZ7d3joyR0n6mBZQDvPClYBy2d0QxFoRr4BHlB0wzc/edit?usp=sharing) |
 |    2     | Termo de Abertura     | 14.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1eV8e5wvM8zO4EuebjQ_7UK5pdywUjw6r00QSIph2X8g/edit?usp=sharing) |
-|    3     | Requisitos de Sw      | 04.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1EQVk3f-U7TleRjNP2QA7x20ltSYJMSrWKR9TPj5GFe0/edit?usp=sharing) |
+|    3     | Requisitos de Sw      | 11.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1EQVk3f-U7TleRjNP2QA7x20ltSYJMSrWKR9TPj5GFe0/edit?usp=sharing) |
 |    4     | Definição de Personas | 18.04, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1xFkXmF_v3bLJKdmIr4FsJEM-hvzMVCjXJrdIehJZMKo/edit?usp=sharing) |
-|    5     | ...                   |   -        |   -   |Em breve |
-|    6     | Doc. Final            |   -        |   -   |Em breve |
-|    7     | Apresentação          |   -        |   -   |Em breve |
+|    5     | Landing Page          | 02.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1THn-bv-AXeCVxFz2govMMgiJcRqO8rKt1lOAkMeXM4k/edit?usp=sharing) |
+|    6     | Processo de qualidade | 16.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1T6hkAfT1iCM7e03Bs-lIR2ZkmLDG5HtGYwerYD57oBY/edit?usp=sharing) |
+|    7     | Prototipação          | 30.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1Wwf6oqOEFZNETIWTG_IlaCOvv3p4jXyg17jtCtTMExU/edit?usp=sharing) |
+|    8     | Doc. Final            | 06.06, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1tKmKQ-7ZdytJqCQfO51OKQsWAiAl9PTxg_cCAbI1mwM/edit?usp=sharing) |
+|    9     | Apresentação          | 06.06+     |   2+  |[Detalhamento](https://docs.google.com/document/d/1HYWcP5e3PZYMjr0GoKpSsAthRB51N8GzVoKIid3FOjs/edit?usp=sharing) |
 
 ## Recursos
 
