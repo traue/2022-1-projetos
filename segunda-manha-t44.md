@@ -22,20 +22,20 @@ Este é um projeto integrador e devem ser entregues ao professor orientador os a
 
 As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em que foi informada.
 
-
 ## Entregas
 
 Essas são as entregas do projeto:
 
-| Deadline |      Descrição      | Prazo      | Valor | Descrição                                                                                                       |
-|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
-|    2     | Definição do negócio| 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
-|    3     | Termo de Abertura   | 04.04, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
-|    4     | Mix de Marketing    | 11.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16UdIokOQozMnVNTr5zWGcXu8bcvl_OBAauOqDcPriqk/edit?usp=sharing) |
-|    5     | ...                 |   -        |   -   |Em breve |
-|    6     | Doc. Final          |   -        |   -   |Em breve |
-|    7     | Apresentação        |   -        |   -   |Em breve|
+| Deadline |      Descrição          | Prazo      | Valor | Descrição                                                                                                       |
+|:--------:|:-----------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes     | 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/11ELlGkqy29jIayXnTrEPF8zYzzLyaTS3D3bJWZWUkhI/edit?usp=sharing) |
+|    2     | Definição do negócio    | 14.03, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/179B8ONQJoLYsQQKHXAV0i6xS2pqQ69D1mNWo6Lm6MGA/edit?usp=sharing) |
+|    3     | Termo de Abertura       | 04.04, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1Z3RD88-lKDKaXsrbe5znPmAC-NUJQvQOhp5aVf27r9M/edit?usp=sharing) |
+|    4     | Mix de Marketing        | 11.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16UdIokOQozMnVNTr5zWGcXu8bcvl_OBAauOqDcPriqk/edit?usp=sharing) |
+|    5     | Landing page            | 25.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1VMTbn6OngA5sHrdVgSd9lrlUNLFK8JE0rink4sCada4/edit?usp=sharing) |
+|    6     | Análise SWOT e demanda  | 16.05, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/150mI0AGB3dGtNq3KFgK7WGJBxle1aIb5eywRv1sCe9g/edit?usp=sharing) |
+|    7     | Doc. Final              | 30.05, 11h |   2   | Em breve |
+|    8     | Apresentação            | 30.05+     |   2+  | Em breve|
 
 ## Recursos
 
