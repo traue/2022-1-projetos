@@ -3,7 +3,7 @@
 **Orientadores**:
 
 - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Terças
-- Prof. Edson Melo (souzaem@uni9.pro.br) - Quintas
+- ~~Prof. Edson Melo (souzaem@uni9.pro.br) - Quintas~~ -> Saiu da orientação devido abertura de nova turma
 
 Turma: 38 - Terças de manhã
 
