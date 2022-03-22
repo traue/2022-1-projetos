@@ -31,10 +31,11 @@ Essas são as entregas do projeto:
 |    1     | Formação de equipes | 15.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1CJ15w6Rw5wRghnuJwiCszN4ZLsgiye7ut46atHfk1bc/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 15.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1z6h47Zp2pxWXMrk_Z1wnfBu8ZrRyWQB71FRpFHp5tY0/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 05.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/13jBa8ka5J3-vZeYSErFIUR0QLw-b06dPBIYQcpvyvTk/edit?usp=sharing) |
-|    4     | ...                 |   -        |   -   |Em breve |
-|    5     | ...                 |   -        |   -   |Em breve |
-|    ?     | Doc. Final          |   -        |   -   |Em breve |
-|    ?     | Apresentação        |   -        |   -   |Em breve |
+|    4     | Modelagem UML       | 26.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/103bzYF5ae9I4rJVhq4YeKpLrbpqz3Aop0Um8kcdOXXI/edit?usp=sharing) |
+|    5     | Prototipação        | 10.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1LwM2EmJmW8HlK80tHXtK00Ju3k1ZlNY-8XcuzDF6O7M/edit?usp=sharing) |
+|    6     | Landing Page        | 17.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1QF9WS1gnPtmFRAS4bU9bEEqVxHZ-lU2McGhH68hC0nk/edit?usp=sharing) |
+|    7     | Doc. Final          | 07.06, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1OzsRohdY9oXqegJInjm1TQho0jz8WfkNZWpVubRKmDo/edit?usp=sharing) |
+|    8     | Apresentação        | 07.06+     |   2+  |[Detalhamento](https://docs.google.com/document/d/1es3aY36humuBbEu88r3eJ9k_gUCLpcOXDsIbNzGpbMQ/edit?usp=sharing) |
 
 ## Recursos
 
@@ -60,4 +61,4 @@ Essas são as entregas do projeto:
 
 3. **Professor, precisarei apresentar o projeto?**
 
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
+    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
