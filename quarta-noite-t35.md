@@ -3,7 +3,7 @@
 **Orientadores**:
 
 - Prof. Thiago Graziani Traue (thiago.traue@uni9.pro.br) - Quartas
-- Prof. João Vagner (joaovagner@uni9.pro.br) - Quintas
+- Prof. João Vagner (joaovagner@uni9.pro.br) - Segundas
 
 **Turma**: 35 - Quartas e quiintas - noite
 
@@ -31,13 +31,13 @@ A tabela abaixo representa as entregas do projeto. As especificações de cada e
 
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                            |
 |:--------:|:-------------------:|:----------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 16.03, 18h |   1   |[LINK](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 16.03, 18h |   2   |[LINK](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
-|    3     | Requisitos de SW    | 06.04, 18h |   2   |[LINK](https://docs.google.com/document/d/1HD3ncQO4EV2YAPifq92LwlF9DYL7oZdCN3ra3-lnfJ0/edit?usp=sharing) |
-|    4     | Definição da IA     | 20.04, 18h |   1   |[LINK](https://docs.google.com/document/d/1Ehm5XomxFWuEYZqaN5qR4PiN1E_2klb1QjXPeCzwHKQ/edit?usp=sharing) |
-|    ?     | ...                 |   -        |   -   |Em breve |
-|    ?     | Doc. Final          |   -        |   -   |Em breve |
-|    ?     | Apresentação        |   -        |   -   |Em breve |
+|    1     | Formação de equipes | 16.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
+|    2     | Termo de Abertura   | 16.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
+|    3     | Requisitos de SW    | 06.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1HD3ncQO4EV2YAPifq92LwlF9DYL7oZdCN3ra3-lnfJ0/edit?usp=sharing) |
+|    4     | Definição da IA     | 20.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1Ehm5XomxFWuEYZqaN5qR4PiN1E_2klb1QjXPeCzwHKQ/edit?usp=sharing) |
+|    5     | Landing page        | 04.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1-78JJgdPGLIxCy7YT0lJ_AF3Q_IAZdsm-kYyJqy0pMc/edit?usp=sharing) |
+|    6     | Doc. Final          | 25.05, 18h |   2   |Em breve |
+|    7     | Apresentação        | 25.05+     |   2+  |Em breve |
 
 ## Recursos
 
@@ -55,4 +55,4 @@ A tabela abaixo representa as entregas do projeto. As especificações de cada e
 
 3. **Professor, precisarei apresentar o projeto?**
 
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
+    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
