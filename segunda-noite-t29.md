@@ -43,7 +43,7 @@ Cada entrega é definida em seu próprio document pelos professores orientadores
 
 ## Recursos
 
-- **Em breve:** Template da documentação final em formato ABNT
+- Template da documentação final em formato ABNT: [NESTE LINK](https://docs.google.com/document/d/1LIr2-78ZVBuaGaWbpq2B1kHmCGbwanjC/edit?usp=sharing&ouid=103387408325973477515&rtpof=true&sd=true)
 
 ## Disciplinas do módulo deste projeto
 
