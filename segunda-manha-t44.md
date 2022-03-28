@@ -34,8 +34,8 @@ Essas são as entregas do projeto:
 |    4     | Mix de Marketing        | 11.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16UdIokOQozMnVNTr5zWGcXu8bcvl_OBAauOqDcPriqk/edit?usp=sharing) |
 |    5     | Landing page            | 25.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1VMTbn6OngA5sHrdVgSd9lrlUNLFK8JE0rink4sCada4/edit?usp=sharing) |
 |    6     | Análise SWOT e demanda  | 16.05, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/150mI0AGB3dGtNq3KFgK7WGJBxle1aIb5eywRv1sCe9g/edit?usp=sharing) |
-|    7     | Doc. Final              | 30.05, 11h |   2   | Em breve |
-|    8     | Apresentação            | 30.05+     |   2+  | Em breve|
+|    7     | Doc. Final              | 30.05, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1NQB_IeMlwXqoGKX2np3hSiUKX75Unb505MrPtvFewI8/edit?usp=sharing) |
+|    8     | Apresentação            | 30.05+     |   2+  |[Detalhamento(https://docs.google.com/document/d/16QILxyvjoZl9wts_BID29qMXC-egiLajNfinpPqzf4s/edit?usp=sharing)  |
 
 ## Recursos
 
@@ -53,11 +53,11 @@ As disciplins da turma, neste módulo, são:
 
 ## Perguntas frequentes
 
-1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?** 
+1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**
     R: De forma alguma. Você pode acompanhar o projeto via ATAs de orientação e realizar as entregas de forma offline, ou seja, apenas enviar o arquivo conforme definido pelo orientador.
 
 2. **Professor, estou sem grupo. Posso ingressar em um grupo já existente?**
     R: Perfeitamente. Basta o gerente do grupo informar tal inclusão. O aluno que ingressar em algum grupo receberá automaticamente as mesmas pontuações deste.
 
 3. **Professor, precisarei apresentar o projeto?**
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
+    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
