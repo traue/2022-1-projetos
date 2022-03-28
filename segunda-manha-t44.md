@@ -35,7 +35,7 @@ Essas são as entregas do projeto:
 |    5     | Landing page            | 25.04, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1VMTbn6OngA5sHrdVgSd9lrlUNLFK8JE0rink4sCada4/edit?usp=sharing) |
 |    6     | Análise SWOT e demanda  | 16.05, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/150mI0AGB3dGtNq3KFgK7WGJBxle1aIb5eywRv1sCe9g/edit?usp=sharing) |
 |    7     | Doc. Final              | 30.05, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1NQB_IeMlwXqoGKX2np3hSiUKX75Unb505MrPtvFewI8/edit?usp=sharing) |
-|    8     | Apresentação            | 30.05+     |   2+  |[Detalhamento(https://docs.google.com/document/d/16QILxyvjoZl9wts_BID29qMXC-egiLajNfinpPqzf4s/edit?usp=sharing)  |
+|    8     | Apresentação            | 30.05+     |   2+  |[Detalhamento](https://docs.google.com/document/d/16QILxyvjoZl9wts_BID29qMXC-egiLajNfinpPqzf4s/edit?usp=sharing) |
 
 ## Recursos
 
