@@ -41,7 +41,7 @@ Cada deadline está definia em um documento próprio, dispon;ivel no classroom o
 
 ## Recursos
 
-- **Em breve:** Template da documentação final em formato ABNT
+- Template da documentação final em formato ABNT: [NESTE LINK](https://docs.google.com/document/d/1rX59K-qI4FbsTdzLj6fQIeSDpN65GmcL/edit?usp=sharing&ouid=103387408325973477515&rtpof=true&sd=true)
 
 ## Perguntas frequentes
 
