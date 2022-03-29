@@ -21,7 +21,7 @@ Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponí
 
 **SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
 
-Este é um projeto integrador e devem ser entregues ao professor orientador os artefatos conforme definido nas reuniões de orientação, às segundas-feiras (com o Prof. Traue). Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima. 
+Este é um projeto integrador e devem ser entregues ao professor orientador os artefatos conforme definido nas reuniões de orientação, às segundas-feiras (com o Prof. Traue). Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima.
 
 As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em que foi informada.
 
@@ -30,14 +30,14 @@ As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em 
 Cada deadline está definia em um documento próprio, dispon;ivel no classroom ou na tabela abaixo:
 
 | Deadline |      Descrição      | Prazo        | Valor | Detalhamento                                                                                                    |
-|:--------:|:-------------------:|:------------:|:-----:|:-------------------------------------------------------------------------------------------------------:|
+|:--------:|:-------------------:|:------------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 15.03, 11h   |   1   |[Detalhamento](https://docs.google.com/document/d/1cBPRUBLCjbOe_UwIOp_RCck0uJE6eptOAeu7btFYk5A/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 22.03, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1r1z2-CMk-nj0WUHAZnu82MoMUkxKNnPNSNx-bdt6HXE/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 12.04, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1b8vXtVUuetIkd5e4HgbycFl5zs5i0RYswjR29i4Oqkw/edit?usp=sharing) |
 |    4     | Mix de Marketing    | 26.04, 11h   |   1   |[Detalhamento](https://docs.google.com/document/d/1eVs3j_WdhOuBl6fvjaGLApDtPQ9WqK0et4TGQvjijOg/edit?usp=sharing) |
 |    5     | Prototipação        | 17.05, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1xRMENm94JHnCKlanuzHltOu3doMjuwKSLq_2D7TzPZQ/edit?usp=sharing) |
-|    6     | Doc. Final          |   -          |   -   |Em breve |
-|    7     | Apresentação        |   -          |   -   |Em breve |
+|    6     | Doc. Final          | 31.05, 11h   |   2   |[Detalhamento](https://docs.google.com/document/d/1rtooVeXoQG2B_RMy8eGYZNaBYrzJ5lDkarOUHBkFTyk/edit?usp=sharing) |
+|    7     | Apresentação        | 31.05+       |   2+  |[Detalhamento](https://docs.google.com/document/d/1PjK4uuYgjZ9ALVo39zy5L4RyVqxqos5YbHbGkvaSFTY/edit?usp=sharing) |
 
 ## Recursos
 
@@ -55,4 +55,4 @@ Cada deadline está definia em um documento próprio, dispon;ivel no classroom o
 
 3. **Professor, precisarei apresentar o projeto?**
 
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.    
+    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
