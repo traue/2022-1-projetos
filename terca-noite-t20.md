@@ -39,7 +39,7 @@ Essas são as entregas do projeto:
 
 ## Recursos
 
-- **Em breve:** Template da documentação final em formato ABNT
+- Template da documentação final em formato ABNT: [NESTE LINK](https://docs.google.com/document/d/1WkFgWi_MMrBme2-41-zZhoVlN8KJSydM/edit?usp=sharing&ouid=103387408325973477515&rtpof=true&sd=true)
 
 ## Disciplinas da turma neste módulo
 
