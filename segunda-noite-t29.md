@@ -7,7 +7,7 @@
 
 Turma: 29 - Segundas (Prof. Traue) e quartas (Profª. Rosana) à noite
 
-CLASSROOM DA TURMA: [NESTE LINK](https://classroom.google.com/c/NDY1OTc5MDAwOTQ5?cjc=nmltpmk)
+**CLASSROOM DA TURMA**: [NESTE LINK](https://classroom.google.com/c/NDY1OTc5MDAwOTQ5?cjc=nmltpmk)
 
 ***
 
