@@ -36,8 +36,8 @@ Essas são as entregas do projeto:
 |    1     | Formação de equipes | 10.03, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1m2zQXZ-TsE1Dk8QPx9oxxRu_aLC5uYXric3-8IjNO8I/edit?usp=sharing) |
 |    2     | Termo de Abertura   | 17.03, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1VDaOBt8j9YiC1C24luXhsvKXtEBhZNUb1YRlTMLnzMU/edit?usp=sharing) |
 |    3     | Requisitos de SW    | 07.04, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1DIz_7edoH-RFwNGG_dz7RSqvKN227yTXQYHkrlQ-obU/edit?usp=sharing) |
-|    4     | Modelagem UML       | 28.04, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1X0PA8NhJoLESng8utFHbtgC-TpLBiCNr-PSXq92Bl4E/edit?usp=sharing) |
-|    5     | Modelagem ER        | 12.05, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1fvf5eUS0La7Kio3qPksExijjThtBMMIRYww_30F5sg0/edit?usp=sharing) |
+|    4     | Modelagem UML       | 05.05, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1X0PA8NhJoLESng8utFHbtgC-TpLBiCNr-PSXq92Bl4E/edit?usp=sharing) |
+|    5     | Modelagem ER        | 19.05, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1fvf5eUS0La7Kio3qPksExijjThtBMMIRYww_30F5sg0/edit?usp=sharing) |
 |    6     | Doc. Final          | 02.06, 11h |   2   |LINK EM BREVE |
 |    7     | Apresentação        | 02.06+     |   2+  |LINK EM BREVE |
 
