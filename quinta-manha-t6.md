@@ -38,8 +38,8 @@ Essas são as entregas do projeto:
 |    3     | Requisitos de SW    | 07.04, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1DIz_7edoH-RFwNGG_dz7RSqvKN227yTXQYHkrlQ-obU/edit?usp=sharing) |
 |    4     | Modelagem UML       | 05.05, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1X0PA8NhJoLESng8utFHbtgC-TpLBiCNr-PSXq92Bl4E/edit?usp=sharing) |
 |    5     | Modelagem ER        | 19.05, 11h |   1   |[DETALHAMENTO](https://docs.google.com/document/d/1fvf5eUS0La7Kio3qPksExijjThtBMMIRYww_30F5sg0/edit?usp=sharing) |
-|    6     | Doc. Final          | 02.06, 11h |   2   |LINK EM BREVE |
-|    7     | Apresentação        | 02.06+     |   2+  |LINK EM BREVE |
+|    6     | Doc. Final          | 02.06, 11h |   2   |[DETALHAMENTO](https://docs.google.com/document/d/1rmBhkzqRP0YCo6Dizn5XL207zqf6R-F5dLCZq8EM5x8/edit?usp=sharing) |
+|    7     | Apresentação        | 02.06+     | Até 2+|[DETALHAMENTO](https://docs.google.com/document/d/1cFnwG-XQ7s5HVUqF-IOt0vdf9Ycv6zckSFUpP9lHORU/edit?usp=sharing) |
 
 ## Recursos
 
