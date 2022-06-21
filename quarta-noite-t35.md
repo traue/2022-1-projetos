@@ -11,48 +11,4 @@ Classroom do projeto: [NESTE LINK](https://classroom.google.com/c/NDY1OTg2NDEyNT
 
 ***
 
-## Orientações
-
-Os **resumos**, de **cada** uma das aulas, ficam nas ATAs de reuniões, disponíveis no link abaixo. É preciso utilizar o e-mail institucional para acessar essa pasta. :D
-
-<p style="font-size:2.3em;text-align:center">
-    <a href="https://drive.google.com/drive/folders/10iwUIi6YjSdclnV-9hJ-Kx5MgSDlmElT?usp=sharing" target="_blank">Pasta de ATAs</a>
-</p>
-
-**SE você chegou após** a primeira ATA, por favor, **leia** cuidadosamente cada uma das ATAs em ordem cronológica (da mais antiga para a mais recente).
-
-Este é um projeto integrador e devem ser entregues ao professor orientador os artefatos conforme definido nas reuniões de orientação, às segundas-feiras (com o Prof. Traue). Cada entrega possui um valor na pontuação do projeto e todas as aulas são documentadas em ATAs, cuja pasta pode ser acessada pelo link acima.
-
-As entregas estão documentadas na sessão abaixo e detalhadas na ATA do dia em que foi informada.
-
-## Entregas
-
-A tabela abaixo representa as entregas do projeto. As especificações de cada entrega podem ser vistas na última coluna, em link próprio.
-
-| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
-|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 16.03, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/10W08tn-Escu_10FxRx4qkUSX7ZNcAB6TaeWHqXNTUSo/edit?usp=sharing) |
-|    2     | Termo de Abertura   | 16.03, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1lp1skSeW0VJlggUYfW5tz5tJshIBSL3P0r0HP8T2wZk/edit?usp=sharing) |
-|    3     | Requisitos de SW    | 06.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1HD3ncQO4EV2YAPifq92LwlF9DYL7oZdCN3ra3-lnfJ0/edit?usp=sharing) |
-|    4     | Definição da IA     | 20.04, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1Ehm5XomxFWuEYZqaN5qR4PiN1E_2klb1QjXPeCzwHKQ/edit?usp=sharing) |
-|    5     | Landing page        | 04.05, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1-78JJgdPGLIxCy7YT0lJ_AF3Q_IAZdsm-kYyJqy0pMc/edit?usp=sharing) |
-|    6     | Doc. Final          | 25.05, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1lCP-8z3RAOWL1F0ifb19Dtpn25-xq5Jp_g1sXH-ahIk/edit?usp=sharing) |
-|    7     | Apresentação        | 25.05+     | Até +2|[Detalhamento](https://docs.google.com/document/d/1y7QPlClWQ8XMNSjUQrQctaGv_z0ZZaZkH1sfgCIO9jU/edit?usp=sharing) |
-
-## Recursos
-
-- Template da documentação final em formato ABNT: [NESTE LINK](https://docs.google.com/document/d/13ncsqszSUTI_z7qr-tYPE0eq8sdS7qjc/edit?usp=sharing&ouid=103387408325973477515&rtpof=true&sd=true)
-
-## Perguntas frequentes
-
-1. **Professor, eu não consigo acompanhar as reuniões de orientação. Serei prejuricado?**
-
-    R: De forma alguma. Você pode acompanhar o projeto via ATAs de orientação e realizar as entregas de forma offline, ou seja, apenas enviar o arquivo conforme definido pelo orientador.
-
-2. **Professor, estou sem grupo. Posso ingressar em um grupo já existente?**
-
-    R: Perfeitamente. Basta o gerente do grupo informar tal inclusão. O aluno que ingressar em algum grupo receberá automaticamente as mesmas pontuações deste.
-
-3. **Professor, precisarei apresentar o projeto?**
-
-    R: Depende. A apresentação vale até dois pontos no projeto, entretanto se você atingir 10 pontos com todas as entregas, não é necessário apresentar.
+## projeto finalizado
